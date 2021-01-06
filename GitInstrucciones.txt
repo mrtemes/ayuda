@@ -81,6 +81,9 @@
 	git stash
 - Listar los stash.
 	git stash list
+- Deshacer un merge.
+	git merge --abort
+
 ============================
 ------- GitHub -------------
 ============================
