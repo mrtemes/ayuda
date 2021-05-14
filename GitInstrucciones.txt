@@ -95,6 +95,8 @@
 	git branch -M main
 -
 	git push -u origin main
+-	Borrar remote origin
+	git remote remove origin
 - Subir tags.
 	git push --tags
 - Clonar repositorio en equipo.
